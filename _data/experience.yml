@@ -1,56 +1,40 @@
-- institution: Sourcery Institute
-  title: Software Engineering Research Consultant
+- institution: Eventmanager 
+  title: Freelancer im Bereich Events, Projektmanagement, Moderation
   description: >
-                 Synthesize and test new, efficient communication patterns
-                 with automatic data dependency tracking for the parallel
-                 solution of nonlinear partial differential equations using
-                 Coarray Fortran, a parallel global address space (PGAS) language
-  begin: Jul 2014
-  end:
-  link: http://www.sourceryinstitute.org
+                 ART@TECH Kunstfestival, Interactive Festival, Pirate Summit, Startup Grind,</br>Startup Breakfast, Rheinland-Pitch Winterfinale
+  begin: June 2017
+  end: ongoing
+  link: /
   img: img/experience/1.jpg
   img_alt: Sourcery Institute Hat
-- institution: University of Maryland
-  title: CRoCCo Lab Faculty Research Assistant
+
+- institution: STARTPLATZ
+  title: Head of Events & Education
   description: >
-                 Initialize, run and analyze very large Computational Fluid Dynamics
-                 research simulations of supersonic and hypersonic
-                 turbulent boundary layers, work with massive data sets and
-                 develop parallel, efficient algorithms for huge turbulence
-                 data sets
-  begin: Sep 2014
-  end:
-  link: http://croccolab.umd.edu
-  img: img/experience/2.jpg
-  img_alt: UMD Seal
-- institution: Princeton University
-  title: Doctoral Candidate and Graduate Research Assistant
+                 Planung des Workshopcurriculums.</br>Eigentständige Planung und Durchführung von Vortragsabenden und Konferenzen.</br>Inhaltliche Begleitung von Partnerevents.</br>Marketing und Printmittelerstellung für alle Events.
+  begin: Mai 2013
+  end: Januar 2017
+  link: http://www.startplatz.de
+  img: img/startplatz.jpg
+  img_alt: STARTPLATZ Logo
+
+- institution: simfy
+  title: Produktmanager / Produkt Marketing
   description: >
-                 <b>Anticipated PhD conferral:</b> May 2016 <br/>
-                 <b>Masters Degree:</b> June 2010 <br/>
-                 Research duties included preparing manuscripts for publication,
-                 giving talks at professional conferences and conducting research
-                 on hypersonic and supersonic turbulent boundary layers, training
-                 new graduate students and managing the lab's transition from
-                 Princeton University to UMD
-  begin: Sep 2007
-  end:
-  link: http://www.princeton.edu/mae/
-  img: img/experience/PU-Shield.jpg
-  img_alt: Princeton Seal
-- institution: The George Washington University
-  title: B.S. MAE<br/>Undergraduate Research Assistant
+                 Schnittstelle zwischen Marketing, Label Relations und Entwicklung; zuständig für alle Neuerungen der Website und des Browserplayers.</br>Planung und Erstellung von Newslettermarketing-Kampagnen. Zuständig für alle Social Media Aktivitäten.
+  begin: Oktober 2011
+  end: April 2013
+  link: https://de.wikipedia.org/wiki/Simfy
+  img: img/simfy.png
+  img_alt: simfy Logo
+
+- institution: Universität zu Köln
+  title: BWL
   description: >
-                 B.S. Mechanical and Aersopace Engineering, mathematics minor,
-                 <i>suma cum laude</i><br/>
-                 <b>2006 Goldwater Scholar</b> and recipient of the
-                 <b>Alfred Martin Freudenthal Prize</b> for the highest academic
-                 acheivement in <a href="http://www.seas.gwu.edu">GWU SEAS</a>.<br/>
-                 Undergraduate research assistant with the Flow Simulations and
-                 Analysis Group which has since <a href="http://engineering.jhu.edu/fsag/">
-                 moved to Johns Hopkins University</a>
-  begin: Sept 2003
-  end: May 2007
-  link: http://www.mae.seas.gwu.edu
-  img: img/experience/GW_SEAL.jpg
-  img_alt: GWU Seal
+                Schwerpunkt: Medienmanagement / Medienwirtschaft
+  begin: April 2009
+  end: März 2012
+  link: http://www.uni-koeln.de
+  img: img/unikoeln.png
+  img_alt: Uni Köln Logo
+
