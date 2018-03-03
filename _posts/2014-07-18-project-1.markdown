@@ -4,8 +4,8 @@ subtitle: Eventmanagement
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: growtheurope.png
+thumbnail: growtheurope.png
 alt: image-alt
 project-date: Mai 2018
 client: Growth Hacking Academy
