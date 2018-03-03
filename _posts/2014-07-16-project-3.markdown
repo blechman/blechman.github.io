@@ -4,8 +4,8 @@ subtitle: Programmleitung
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: interactive.png
+thumbnail: interactive.png
 alt: image-alt
 project-date: August 2017
 client: Interactive Cologne GmbH
