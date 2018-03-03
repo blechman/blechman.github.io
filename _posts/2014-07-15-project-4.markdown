@@ -4,8 +4,8 @@ subtitle: Moderation
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: StartupGrind.png
-thumbnail: StartupGrind.png
+img: startupgrind.jpg
+thumbnail: startupgrind.jpg
 alt: image-alt
 project-date: seit 2017
 client: Startup Grind
