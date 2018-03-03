@@ -5,7 +5,7 @@ layout: default
 modal-id: 3
 date: 2014-07-16
 img: interactive.png
-thumbnail: interactive.png
+thumbnail: Interactive.png
 alt: image-alt
 project-date: August 2017
 client: Interactive Cologne GmbH
