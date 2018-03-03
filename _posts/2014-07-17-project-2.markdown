@@ -1,6 +1,6 @@
 ---
 title: ART@TECH
-subtitle: Gründerin & Kuratorin
+subtitle: Gründerin / Kuratorin
 layout: default
 modal-id: 2
 date: 2014-07-17
@@ -8,7 +8,7 @@ img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
 project-date: November 2017
-client: -
+client: ART@TECH
 category: Eventmanagement
 description: Kuratorin / Operative Organisation / Partner Management / Marketing
 
