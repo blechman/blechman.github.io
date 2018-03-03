@@ -11,5 +11,4 @@ project-date: Mai 2018
 client: Growth Hacking Academy
 category: Eventmanagement
 description: Akquise Speaker und Sponsoren / Programmplanung / Marketing / Partner Management
-
 ---
