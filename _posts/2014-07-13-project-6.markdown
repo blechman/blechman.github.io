@@ -4,8 +4,8 @@ subtitle: Moderation
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+img: rheinlandpitch.png
+thumbnail: rheinlandpitch.png
 alt: image-alt
 project-date: November 2017
 client: STARTPLATZ
