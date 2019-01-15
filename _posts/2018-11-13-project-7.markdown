@@ -2,8 +2,8 @@
 title: Digitale Leute Summit
 subtitle: Head of Program
 layout: default
-modal-id: 6
-date: 2014-07-15
+modal-id: 1
+date: 2018-11-13
 img: rheinlandpitch.jpg
 thumbnail: rheinlandpitch.jpg
 alt: image-alt
