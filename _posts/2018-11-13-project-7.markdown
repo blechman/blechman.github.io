@@ -1,11 +1,11 @@
 ---
 title: Digitale Leute Summit
-subtitle: Head of Program
+subtitle: Head of Program & Operations
 layout: default
 modal-id: 1
 date: 2018-11-13
-img: rheinlandpitch.jpg
-thumbnail: rheinlandpitch.jpg
+img: Digitale_Leute.png
+thumbnail: Digitale_Leute.png
 alt: image-alt
 project-date: Januar - November 2018
 client: Digitale Leute
