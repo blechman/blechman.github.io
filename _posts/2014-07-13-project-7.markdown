@@ -1,0 +1,15 @@
+---
+title: Digitale Leute Summit
+subtitle: Head of Program
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: rheinlandpitch.jpg
+thumbnail: rheinlandpitch.jpg
+alt: image-alt
+project-date: Januar - November 2018
+client: Digitale Leute
+category: Eventmanagement
+description: Eventmanagement 
+
+---
