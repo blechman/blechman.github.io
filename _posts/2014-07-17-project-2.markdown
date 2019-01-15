@@ -2,7 +2,7 @@
 title: ART@TECH
 subtitle: Gründerin / Kuratorin
 layout: default
-modal-id: 2
+modal-id: 7
 date: 2014-07-17
 img: artattech.jpg
 thumbnail: artattech.jpg
